@@ -108,6 +108,7 @@ public class SimpleJDBCExample {
 		toyExample.runTheExample();
 	}
 }
+//ciao
 
 enum TypesOfPersistenceLayer{
 	JDBC,
